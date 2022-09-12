@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
@@ -25,3 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# demo
+Hello
+<hr>
+it's a public repo for HR recruiters about akosl's works.
+
+Thanks,
+akosl
+
+>>>>>>> b2e0489a781876db82e0c1ed9003d4fe23bcdc46
